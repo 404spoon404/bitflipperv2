@@ -1,0 +1,9 @@
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\bin\Debug\BitflipperV2.exe.config
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\bin\Debug\BitflipperV2.exe
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\bin\Debug\BitflipperV2.pdb
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\obj\Debug\BitflipperV2.csprojResolveAssemblyReference.cache
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\obj\Debug\BitflipperV2.Form1.resources
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\obj\Debug\BitflipperV2.Properties.Resources.resources
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\obj\Debug\BitflipperV2.csproj.GenerateResource.Cache
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\obj\Debug\BitflipperV2.exe
+d:\users\spoon\documents\visual studio 2017\Projects\BitflipperV2\BitflipperV2\obj\Debug\BitflipperV2.pdb
