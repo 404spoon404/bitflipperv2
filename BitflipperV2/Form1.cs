@@ -17,6 +17,7 @@ namespace BitflipperV2
 
 
         //Magic:
+        //Test of the github config
         byte ConvertToByte(BitArray bits)
         {
             byte currentval = 0;
